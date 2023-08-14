@@ -5,6 +5,6 @@
 
 🌱 I’m currently learning blockchain...
 💬 Ask me anything about front-end, UI/UX and System analysis and design..
-📫 Connect to me on linkedin: linkedin.com/in/mahnoor-zahid-37463b22b
+📫 Connect to me on linkedin: [linkedin.com/in/mahnoor-zahid-37463b22b]
 ⚡ Fun fact: I write in my spare time 
 
